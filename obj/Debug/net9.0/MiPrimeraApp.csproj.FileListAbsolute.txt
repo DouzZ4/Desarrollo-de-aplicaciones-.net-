@@ -12,3 +12,4 @@ C:\Users\angel\MiPrimeraApp\obj\Debug\net9.0\refint\MiPrimeraApp.dll
 C:\Users\angel\MiPrimeraApp\obj\Debug\net9.0\MiPrimeraApp.pdb
 C:\Users\angel\MiPrimeraApp\obj\Debug\net9.0\MiPrimeraApp.genruntimeconfig.cache
 C:\Users\angel\MiPrimeraApp\obj\Debug\net9.0\ref\MiPrimeraApp.dll
+C:\Users\angel\MiPrimeraApp\obj\Debug\net9.0\MiPrimeraApp.sourcelink.json
